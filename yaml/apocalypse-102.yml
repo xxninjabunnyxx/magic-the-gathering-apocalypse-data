@@ -1,0 +1,114 @@
+---
+object: card
+id: 583740c0-68cf-4205-b682-2f97c0880d42
+oracle_id: 670b5dfb-ffdf-43ed-acc3-855006e352fc
+multiverse_ids:
+- 29416
+mtgo_id: 16126
+mtgo_foil_id: 16127
+tcgplayer_id: 7959
+cardmarket_id: 3214
+name: Gerrard's Verdict
+lang: en
+released_at: '2001-06-04'
+uri: https://api.scryfall.com/cards/583740c0-68cf-4205-b682-2f97c0880d42
+scryfall_uri: https://scryfall.com/card/apc/102/gerrards-verdict?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/5/8/583740c0-68cf-4205-b682-2f97c0880d42.jpg?1562915736
+  normal: https://cards.scryfall.io/normal/front/5/8/583740c0-68cf-4205-b682-2f97c0880d42.jpg?1562915736
+  large: https://cards.scryfall.io/large/front/5/8/583740c0-68cf-4205-b682-2f97c0880d42.jpg?1562915736
+  png: https://cards.scryfall.io/png/front/5/8/583740c0-68cf-4205-b682-2f97c0880d42.png?1562915736
+  art_crop: https://cards.scryfall.io/art_crop/front/5/8/583740c0-68cf-4205-b682-2f97c0880d42.jpg?1562915736
+  border_crop: https://cards.scryfall.io/border_crop/front/5/8/583740c0-68cf-4205-b682-2f97c0880d42.jpg?1562915736
+mana_cost: "{W}{B}"
+cmc: 2.0
+type_line: Sorcery
+oracle_text: Target player discards two cards. You gain 3 life for each land card
+  discarded this way.
+colors:
+- B
+- W
+color_identity:
+- B
+- W
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: e4e00913-d08d-4899-86ea-5cf631e09ce0
+set: apc
+set_name: Apocalypse
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/e4e00913-d08d-4899-86ea-5cf631e09ce0
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aapc&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/apc?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/583740c0-68cf-4205-b682-2f97c0880d42/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A670b5dfb-ffdf-43ed-acc3-855006e352fc&unique=prints
+collector_number: '102'
+digital: false
+rarity: uncommon
+flavor_text: A heart of light and a soul of darkness cannot coexist.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Carl Critchlow
+artist_ids:
+- 17948f16-611a-44b8-8d10-9895a0bdfff1
+illustration_id: 8591f7ab-a229-41a4-9ddf-d1b10d626f50
+border_color: black
+frame: '1997'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 18701
+penny_rank: 213
+prices:
+  usd: '0.32'
+  usd_foil: '6.65'
+  usd_etched: 
+  eur: '0.10'
+  eur_foil: '9.75'
+  tix: '0.04'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=29416
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Gerrard%27s+Verdict&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Gerrard%27s+Verdict&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Gerrard%27s+Verdict
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/7959?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Gerrard%27s+Verdict&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/16126?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

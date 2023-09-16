@@ -1,0 +1,21 @@
+---
+object: set
+id: e4e00913-d08d-4899-86ea-5cf631e09ce0
+code: apc
+mtgo_code: ap
+arena_code: ap
+tcgplayer_id: 10
+name: Apocalypse
+uri: https://api.scryfall.com/sets/e4e00913-d08d-4899-86ea-5cf631e09ce0
+scryfall_uri: https://scryfall.com/sets/apc
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Aapc&unique=prints
+released_at: '2001-06-04'
+set_type: expansion
+card_count: 143
+printed_size: 143
+digital: false
+nonfoil_only: false
+foil_only: false
+block_code: inv
+block: Invasion
+icon_svg_uri: https://svgs.scryfall.io/sets/apc.svg?1694404800
